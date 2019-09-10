@@ -19,7 +19,7 @@ This is a repository for materials related to the BIO390 _Introduction to Bioinf
 
 The handling and analysis of biological data using computational methods has become an essential part in most areas of biology. In this lecture, students will be introduced to the use of bioinformatics tools and methods in different topics, such as molecular resources and databases, standards and ontologies, sequence and high performance genome analysis, biological networks, molecular dynamics, proteomics, evolutionary biology and gene regulation. Additionally, the use of low level tools (e.g. Programming and scripting languages) and specialized applications will be demonstrated. Another topic will be the visualization of quantitative and qualitative biological data and analysis results.
 
-#### [Schedule]({{ "/categories/days.html" | relative_url }})
+#### [Schedule]({{ "/categories/lectures.html" | relative_url }})
 
 #### Learning Goals
 
