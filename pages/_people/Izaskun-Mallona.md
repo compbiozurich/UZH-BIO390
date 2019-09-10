@@ -3,6 +3,7 @@ title:  "Izaskun Mallona Gonzalez, PhD"
 layout: default
 excerpt_separator: <!--more-->
 date:   2019-08-28
+image_file: 'Izaskun-Mallona.png'
 category:
   - people
 tags:
