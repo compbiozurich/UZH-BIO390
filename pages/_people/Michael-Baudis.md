@@ -10,6 +10,7 @@ category:
 tags:
   - .featured
   - group
+  - teachers
 ---
 
 ## Michael Baudis

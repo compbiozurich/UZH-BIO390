@@ -10,6 +10,7 @@ category:
 tags:
   - UZH
   - SIB
+  - teachers
 ---
 
 {% for static_file in site.static_files %}

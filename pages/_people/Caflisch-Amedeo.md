@@ -9,6 +9,7 @@ category:
   - people
 tags:
   - UZH
+  - teachers
 ---
 
 {% for static_file in site.static_files %}
