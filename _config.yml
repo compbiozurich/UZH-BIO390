@@ -55,6 +55,8 @@ general:
   material: 'Course Material'
 
 related_sites:
+  'CompbioZurich': 'http://compbiozurich.org'
+  'UZH392 course': '/UZH-BIO392/'
   'Baudisgroup at UZH': 'http://info.baudisgroup.org'
 
 github_projects:

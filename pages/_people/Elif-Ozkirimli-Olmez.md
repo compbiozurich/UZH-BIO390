@@ -2,7 +2,7 @@
 title:  "Elif Ozkirimli Olmez, PhD"
 layout: default
 excerpt_separator: <!--more-->
-date:   2019-08-28
+date: 2019-08-28
 image_file: 'Elif-Ozkirimli-Olmez.png'
 category:
   - people

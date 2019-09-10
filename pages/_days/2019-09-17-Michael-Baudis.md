@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 www_link: 
 www_links_formatted: 
   - '<a href="https://info.baudisgroup.org/assets/articles_and_presentations/2018-09-18___Michael_Baudis__What_is_Bioinformatics__UZH_BIO390.pdf" target="_blank">[2018 lecture slides]</a>'
+  - '<a href="/UZH-BIO390/categories/people.html">[Course Lecturers]</a>'
 categories:
   - lectures
 tags:
@@ -22,6 +23,6 @@ The first day of the "Introduction to Bioinformatics" lecture series starts with
 
 #### Links
 
-* [Lecturers]({{ 'categories' | relative_url }}/teachers.html)
+* [Lecturers]({{ 'categories' | relative_url }}/people.html)
 
 
