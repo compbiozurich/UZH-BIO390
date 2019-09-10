@@ -9,10 +9,11 @@ pdf_file_name: 				# name of PDF (no path) somewhere in "assets"; auto-linked
 www_links_formatted:  # one or more formatted html links
   - '<a href="https://compbiozurich.org/UZH-BIO390/">[UZH-BIO390]</a>'
 categories:
-  - days
+  - lectures
 tags:
   - material
-  - lectures
+  - days
+  - exam
 ---
 
 ## {{ page.title }}

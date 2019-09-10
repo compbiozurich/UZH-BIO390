@@ -8,10 +8,10 @@ www_link:
 www_links_formatted: 
   - '<a href="https://info.baudisgroup.org/assets/articles_and_presentations/2018-09-18___Michael_Baudis__What_is_Bioinformatics__UZH_BIO390.pdf" target="_blank">[2018 lecture slides]</a>'
 categories:
-  - days
+  - lectures
 tags:
   - material
-  - lectures
+  - days
 ---
 
 ## {{ page.title }}

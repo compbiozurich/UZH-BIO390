@@ -10,6 +10,7 @@ tags:
   - documentation
   - FAQ
   - material
+  - exam
 ---
 
 ## {{page.title}}
