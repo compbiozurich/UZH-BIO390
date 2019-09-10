@@ -1,5 +1,5 @@
 ---
-title: 'Alex Handler Wagner- Human Genome Variation'
+title: 'Alex H. Wagner- Human Genome Variation'
 layout: default
 author:
   - ""
@@ -18,4 +18,8 @@ tags:
 ## {{ page.title }}
 
 <!--more-->
+
+#### Links
+
+* [Lecturers]({{ 'categories' | relative_url }}/teachers.html)
 
