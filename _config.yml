@@ -48,6 +48,7 @@ nav_cat_blocks:     # comma-separated "label,type,label_visibility"
 
 # content of the different navigation blocks
 general:
+  news: "News and Updates"
   doc: 'General Info'
   lectures: 'Lectures'
   people: Teachers

@@ -21,8 +21,5 @@ The first day of the "Introduction to Bioinformatics" lecture series starts with
 
 <!--more-->
 
-#### Links
-
-* [Lecturers]({{ 'categories' | relative_url }}/people.html)
 
 

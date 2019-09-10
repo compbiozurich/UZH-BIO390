@@ -21,8 +21,5 @@ tags:
 
 <!--more-->
 
-#### Links
-
-* [Lecturers]({{ 'categories' | relative_url }}/people.html)
 
 
