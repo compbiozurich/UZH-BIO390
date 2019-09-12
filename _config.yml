@@ -1,7 +1,7 @@
 label: 'UZH BIO390'
 tagline: 'Introduction to Bioinformatics'
 description: |
-  This is the repository for the University of Zurich's "Introduction to 
+  This is the repository for the University of Zurich's "Introduction to
   Bioinformatics" lecture series.
 keywords: UZH, life sciences, baudisgroup. bioinformatics
 site_domain_name: http://compbiozurich.org
@@ -55,8 +55,8 @@ general:
   howto: 'Examples, Guides & FAQ'
   material: 'Course Material'
 
-related_sites:
-  'CompbioZurich': 'http://compbiozurich.org'
+related_sites: 
+  CompbioZurich: "http://www.compbiozurich.org"
   'UZH392 course': '/UZH-BIO392/'
   'Baudisgroup at UZH': 'http://info.baudisgroup.org'
 
