@@ -4,7 +4,7 @@ layout: default
 date: 2019-09-10
 permalink: /doc/literature-links.html
 www_links_formatted:
-	- '<a href="https://compbiozurich.org/UZH-BIO392/doc/literature-links.html">[BIO392 Course Literature]</a>'
+  - '<a href="https://compbiozurich.org/UZH-BIO392/doc/literature-links.html">[BIO392 Course Literature]</a>'
 author: "@mbaudis"
 category:
   - doc
