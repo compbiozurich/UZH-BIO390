@@ -31,12 +31,9 @@ collections:
   people:
     output: true
     permalink: /people/:path/
-  howto:
+  course-days:
     output: true
-    permalink: /howto/:path/
-  days:
-    output: true
-    permalink: /days/:path/
+    permalink: /course-days/:path/
 collections_dir: pages  # optional; here, all collections are inside "/pages"
 
 # navigation blocks can be used to separate different categories and add e.g.
@@ -55,7 +52,7 @@ general:
   howto: 'Examples, Guides & FAQ'
   material: 'Course Material'
 
-related_sites: 
+related_sites:
   CompbioZurich: "http://www.compbiozurich.org"
   'UZH392 course': '/UZH-BIO392/'
   'Baudisgroup at UZH': 'http://info.baudisgroup.org'
