@@ -18,8 +18,6 @@ tags:
 
 ## {{ page.title }}
 
-<!--more-->
-
 * atomistic model
 * force field (potential energy function)
 * treatment of solvent
@@ -27,3 +25,4 @@ tags:
 * simulations of peptides and proteins
 * statistical error and systematic error
 
+<!--more-->
