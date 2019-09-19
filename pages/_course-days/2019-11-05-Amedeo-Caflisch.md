@@ -20,5 +20,10 @@ tags:
 
 <!--more-->
 
-
+* atomistic model
+* force field (potential energy function)
+* treatment of solvent
+* Newton equation of motion & Langevin equation
+* simulations of peptides and proteins
+* statistical error and systematic error
 
