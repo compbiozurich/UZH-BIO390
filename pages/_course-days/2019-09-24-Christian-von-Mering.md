@@ -1,5 +1,5 @@
 ---
-title: 'Christian von Mering - Sequence Bioinformatics'
+title: 'Christian von Mering - Biological Sequence Informatics'
 layout: default
 author:
   - ""
