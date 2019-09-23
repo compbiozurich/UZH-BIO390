@@ -15,6 +15,12 @@ tags:
 
 This is a repository for materials related to the BIO390 _Introduction to Bioinformatics_ lecture series at the University of Zürich.
 
+#### Time & Place
+
+* 1 x 2h / week
+* Tue 08:00-09:45
+* UZH Irchel campus, Y-03G-85
+
 #### [Final Program]({{ "/news/2019/09/10/BIO390-2019-programme.html" | relative_url }}) and day-by-day [Schedule]({{ "/categories/lectures.html" | relative_url }})
 
 #### Summary
