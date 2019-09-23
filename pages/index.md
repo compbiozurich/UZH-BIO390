@@ -21,6 +21,10 @@ This is a repository for materials related to the BIO390 _Introduction to Bioinf
 * Tue 08:00-09:45
 * UZH Irchel campus, Y-03G-85
 
+#### Course Language
+
+* English
+
 #### [Final Program]({{ "/news/2019/09/10/BIO390-2019-programme.html" | relative_url }}) and day-by-day [Schedule]({{ "/categories/lectures.html" | relative_url }})
 
 #### Summary
