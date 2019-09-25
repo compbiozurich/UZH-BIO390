@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 pdf_file_name: 2019-09-17___Michael_Baudis__What_is_Bioinformatics__UZH-BIO390-HS19-lecture-01.pdf
 www_link:
 www_links_formatted:
-  - '<a href="https://info.baudisgroup.org/assets/articles_and_presentations/2018-09-18___Michael_Baudis__What_is_Bioinformatics__UZH_BIO390.pdf" target="_blank">[2018 lecture slides]</a>'
+  - '<a href="https://info.baudisgroup.org/pdf/2018-09-18___Michael_Baudis__What_is_Bioinformatics__UZH_BIO390.pdf" target="_blank">[2018 lecture slides]</a>'
   - '<a href="/UZH-BIO390/categories/people.html">[Course Lecturers]</a>'
 categories:
   - lectures
