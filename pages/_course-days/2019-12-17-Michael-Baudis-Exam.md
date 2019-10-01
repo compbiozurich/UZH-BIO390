@@ -26,7 +26,7 @@ The exam will be on the last day of the course.
 * multiple choice
 * 08:15 - 09:45 s.t.
 * 90 minutes
-* please refer to the [learning goals]({{"/UZH-BIO390/doc/learning-goals.html" | relative_link }}") for guidance
+* please refer to the [learning goals]({{"/UZH-BIO390/doc/learning-goals.html"}}") for guidance
     - ¡topics may be edited throughout the course!
     - these just provide some __non-exclusive__ guidance
 
