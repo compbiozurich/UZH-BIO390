@@ -22,13 +22,13 @@ In proteomics one of the important bioinformatics tasks is to generate lists of 
 
 <!--more-->
 
-In the context of this lecture, you will need to learn and understand:
+In the context of this lecture, you will need to learn and understand:  
 
-• what information can be gained in a proteomics experiment
-• what’s the principle of assigning an amino acid sequence to a tandem mass spectrum
-• how de novo and database-dependent peptide identifications work
-• one way of how the accuracy of peptide identifications can be estimated
-• how the number of wrong hits in a dataset can be estimated
-• current proteomic approaches
+* what information can be gained in a proteomics experiment
+* what’s the principle of assigning an amino acid sequence to a tandem mass spectrum
+* how de novo and database-dependent peptide identifications work
+* one way of how the accuracy of peptide identifications can be estimated
+* how the number of wrong hits in a dataset can be estimated
+* current proteomic approaches
 
 
