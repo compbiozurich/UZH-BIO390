@@ -26,3 +26,5 @@ tags:
 * statistical error and systematic error
 
 <!--more-->
+
+* [[slides - PDF]](/UZH-BIO390/course-material/Lecture_Molecular_Dynamics.pdf)
