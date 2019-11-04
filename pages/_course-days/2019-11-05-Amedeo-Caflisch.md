@@ -5,7 +5,7 @@ author:
   - ""
 excerpt_separator: <!--more-->
 www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
-pdf_file_name: 2019-11-06___Amedeo-Caflisch__Molecular_Dynamics__UZH-BIO390-HS19-lecture-07			# name of PDF (no path) somewhere in "assets"; auto-linked
+pdf_file_name: 2019-11-05___Amedeo-Caflisch__Molecular_Dynamics__UZH-BIO390-HS19-lecture-07			# name of PDF (no path) somewhere in "assets"; auto-linked
 www_links_formatted:  # one or more formatted html links
   - '<a href="/UZH-BIO390/">[UZH-BIO390]</a>'
   - '<a href="/UZH-BIO390/categories/people.html">[Course Lecturers]</a>'
@@ -24,7 +24,7 @@ tags:
 * Newton equation of motion & Langevin equation
 * simulations of peptides and proteins
 * statistical error and systematic error
-* [[slides - PDF]](/UZH-BIO390/course-material/2019-11-06___Amedeo-Caflisch__Molecular_Dynamics__UZH-BIO390-HS19-lecture-07.pdf)
+* [[slides - PDF]](/UZH-BIO390/course-material/2019-11-05___Amedeo-Caflisch__Molecular_Dynamics__UZH-BIO390-HS19-lecture-07.pdf)
 
 <!--more-->
 
