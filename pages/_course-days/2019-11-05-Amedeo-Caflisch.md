@@ -24,7 +24,7 @@ tags:
 * Newton equation of motion & Langevin equation
 * simulations of peptides and proteins
 * statistical error and systematic error
-* [[slides - PDF]](/UZH-BIO390/course-material/2019-11-06___Amedeo-Caflisch__Molecular_Dynamics__UZH-BIO390-HS19-lecture-07)
+* [[slides - PDF]](/UZH-BIO390/course-material/2019-11-06___Amedeo-Caflisch__Molecular_Dynamics__UZH-BIO390-HS19-lecture-07.pdf)
 
 <!--more-->
 
