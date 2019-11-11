@@ -16,7 +16,7 @@ tags:
   - days
 ---
 
-## {{ page.title }}
+## {{ Protein Protein Interactions }}
 
 <!--more-->
 
