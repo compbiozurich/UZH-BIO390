@@ -16,7 +16,8 @@ tags:
   - days
 ---
 
-## {{ page.title }}
+## Sequence Evolution and Phylogenetics
+#### Christophe Dessimoz
 
 <!--more-->
 

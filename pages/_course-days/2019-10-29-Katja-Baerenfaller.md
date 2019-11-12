@@ -16,7 +16,8 @@ tags:
   - days
 ---
 
-## {{ page.title }}
+## Proteomics
+#### Katja Baerenfaller
 
 In proteomics one of the important bioinformatics tasks is to generate lists of reliably identified peptides and proteins in mass spectrometry-based experiments. For this, amino acid sequences are assigned to measured tandem mass spectra. The quality of the peptide spectrum assignments are scored and criteria are applied that allow to distinguish the good from the bad hits and to estimate the quality of the dataset.
 

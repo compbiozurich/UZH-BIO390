@@ -16,7 +16,8 @@ tags:
   - days
 ---
 
-## {{ page.title }}
+## Metagenomics
+#### Shinichi Sunagawa
 
 <!--more-->
 

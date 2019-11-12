@@ -16,7 +16,8 @@ tags:
   - days
 ---
 
-## {{ page.title }}
+## Molecular Interaction Networks
+#### Abdullah Kahraman
 
 <!--more-->
 

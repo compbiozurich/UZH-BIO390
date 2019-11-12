@@ -16,7 +16,8 @@ tags:
   - days
 ---
 
-## {{ page.title }}
+## Statistical Bioinformatics
+#### Mark Robinson
 
 <!--more-->
 

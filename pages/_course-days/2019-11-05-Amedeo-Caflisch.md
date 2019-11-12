@@ -16,7 +16,8 @@ tags:
   - days
 ---
 
-## {{ page.title }}
+## Molecular Dynamics
+#### Amedeo Caflisch
 
 * atomistic model
 * force field (potential energy function)

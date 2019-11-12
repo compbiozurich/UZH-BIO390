@@ -16,7 +16,8 @@ tags:
   - days
 ---
 
-## {{ page.title }}
+## Human Genome Variation
+#### Alex H. Wagner
 
 <!--more-->
 

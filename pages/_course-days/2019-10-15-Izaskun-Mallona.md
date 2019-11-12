@@ -1,5 +1,5 @@
 ---
-title: ' Izaskun Mallona - Regulatory Genomics and Epigenomics'
+title: 'Izaskun Mallona - Regulatory Genomics and Epigenomics'
 layout: default
 author:
   - ""
@@ -17,7 +17,8 @@ tags:
   - days
 ---
 
-## {{ page.title }}
+## Regulatory Genomics and Epigenomics
+#### Izaskun Mallona
 
 <!--more-->
 

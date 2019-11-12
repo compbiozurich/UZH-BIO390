@@ -16,7 +16,8 @@ tags:
   - days
 ---
 
-## {{ page.title }}
+## Clinical Bioinformatics
+#### Valerie Barbie
 
 <!--more-->
 

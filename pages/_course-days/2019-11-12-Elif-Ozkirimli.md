@@ -18,6 +18,7 @@ tags:
 ---
 
 ##  Protein Structure and Interactions 
+#### Elif Ozkirimli 
 
 Proteins interact with other proteins, substrates, metabolites in the crowded environment of the cell. We will look at some structural aspects of protein - protein interactions (PPI) as well as collection, curation and analysis of PPI data. Finally, we will discuss some of the computational methods that we can use to make predictions about PPI.
 

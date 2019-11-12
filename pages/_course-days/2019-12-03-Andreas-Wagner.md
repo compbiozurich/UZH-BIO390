@@ -16,7 +16,8 @@ tags:
   - days
 ---
 
-## {{ page.title }}
+## Biological Networks
+#### Andreas Wagner
 
 <!--more-->
 

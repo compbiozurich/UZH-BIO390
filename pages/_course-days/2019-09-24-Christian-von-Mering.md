@@ -16,7 +16,8 @@ tags:
   - days
 ---
 
-## {{ page.title }}
+## Biological Sequence Informatics
+#### Christian von Mering
 
 
 
