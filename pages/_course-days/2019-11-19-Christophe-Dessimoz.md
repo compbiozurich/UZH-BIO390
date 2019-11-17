@@ -19,7 +19,14 @@ tags:
 ## Sequence Evolution and Phylogenetics
 #### Christophe Dessimoz
 
-<!--more-->
+Content:
+- Pairwise distance estimation
+   - Markov models
+   - Maximum likelihood
+- Tree thinking & terminology
+- Tree inference
+   - Methods
+   - Confidence
 
 
 
