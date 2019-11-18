@@ -5,7 +5,7 @@ author:
   - ""
 excerpt_separator: <!--more-->
 www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
-pdf_file_name: 				# name of PDF (no path) somewhere in "assets"; auto-linked
+pdf_file_name: 				'UZH Molecular Evolution and Phylogenetics.key.pdf'
 www_links_formatted:  # one or more formatted html links
   - '<a href="/UZH-BIO390/">[UZH-BIO390]</a>'
   - '<a href="/UZH-BIO390/categories/people.html">[Course Lecturers]</a>'
@@ -19,7 +19,14 @@ tags:
 ## Sequence Evolution and Phylogenetics
 #### Christophe Dessimoz
 
-<!--more-->
+Content:
+- Pairwise distance estimation
+   - Markov models
+   - Maximum likelihood
+- Tree thinking & terminology
+- Tree inference
+   - Methods
+   - Confidence
 
 
 
