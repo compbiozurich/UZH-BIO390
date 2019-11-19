@@ -17,7 +17,7 @@ tags:
 ---
 
 ## Sequence Evolution and Phylogenetics
-#### Christophe Dessimoz
+#### Christophe Dessimoz [UniL]
 
 ##### Content
 
