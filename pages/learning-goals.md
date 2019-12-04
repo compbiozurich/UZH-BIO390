@@ -1,7 +1,7 @@
 ---
 title: "UZH BIO390 - Learning Goals"
 layout: default
-date: 2019-09-10
+date: 2019-12-04
 permalink: /doc/learning-goals.html
 author: "@mbaudis"
 category:
@@ -16,6 +16,8 @@ tags:
 ## {{page.title}}
 
 This page indicates some of the learning goals, as emphasised by the different lecturers. Some points will have been discussed in different lectures; accordingly, exam questions may not refer to information of one specific presentation.
+
+__Cave__: Please be aware that some of the "Learning Goals" may reflect aspects not necessarily captured by the lectures in the current semester - The ones reelevant for the current semester's exam are related to the given lectures. Also, updates may occurr at any time.
 
 #### Bioinformatics: Definition & Concepts
 
@@ -43,12 +45,15 @@ This page indicates some of the learning goals, as emphasised by the different l
 * multiple testing correction
 * parameters for hierarchical clustering
 
+<!--
 #### Bioinformatics tools: Statistics & Graphics in R & BioConductor
 
 * What is tidy data?
 * ideas behind ggplot:  components of a ggplot, arrangement of input data ... (no actual code writing needed)
 *  interpret common types of plots, e.g. barplot, boxplot, histogram
 * effect of data transformation (e.g. log) on common types of plots
+
+-->
 
 #### Regulatory Genomics and Epigenomics
 
@@ -93,12 +98,15 @@ This page indicates some of the learning goals, as emphasised by the different l
 * currently favoured clinical NGS technology
 * clinical trial participation
 
+<!--
 #### Text Mining
 
 * text mining pipelines & (current) common programs/applications
 * article/literature repositories (with focus on accessibility)
 * processing steps in text mining
 * common problems in text mining
+
+-->
 
 #### Biological Networks
 
