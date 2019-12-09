@@ -1,5 +1,5 @@
 ---
-title: 'Alex H. Wagner- Human Genome Variation'
+title: 'Alex H. Wagner- Clinical Interpretation Knowledgebases and Learning Bioinformatics'
 layout: default
 author:
   - ""
@@ -20,8 +20,7 @@ tags:
   - days
 ---
 
-## Human Genome Variation
-### Clinical interpretation (I) and representation (II) of variants from human genomes
+## Clinical Interpretation Knowledgebases
 #### Alex H. Wagner
 
 <!--more-->
@@ -38,6 +37,15 @@ Another part of the lecture will touch upon the problem of ambiguous variant
 representations and how a new "Genomic Knowledge Standards" effort of the Global 
 Alliance for Genomics and Health ([GA4GH](https://ga4gh.org)) attempts to solve 
 this problem.
+
+## Learning Bioinformatics
+#### Alex H. Wagner
+
+<!--more-->
+
+This short lecture will focus on the keys to advancing your bioinformatics
+knowledge and skills beyond this course. Pragmatic advice, common tools, and 
+learning resources are discussed.
 
 
 ## Genome Data & Privacy
