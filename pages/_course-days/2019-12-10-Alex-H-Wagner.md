@@ -7,7 +7,10 @@ excerpt_separator: <!--more-->
 www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
 pdf_file_name: 				# name of PDF (no path) somewhere in "assets"; auto-linked
 www_links_formatted:  # one or more formatted html links
+  - '<a href="/UZH-BIO390/course-material/2019-12-11___Alex-H-Wagner__Human-Genome-Variation__UZH-BIO390-HS19-lecture-13A.pdf">[slides "Genomic Variants"]</a>'
   - '<a href="/UZH-BIO390/course-material/2019-12-11___Michael_Baudis__Genomes-and-Privacy__UZH-BIO390-HS19-lecture-13B.pdf">[slides "Genomic Privacy"]</a>'
+  - '<a href="https://civicdb.org">[CIVIC]</a>'
+  - '<a href="https://cancervariants.org">[VICC]</a>'
   - '<a href="/UZH-BIO390/">[UZH-BIO390]</a>'
   - '<a href="/UZH-BIO390/categories/people.html">[Course Lecturers]</a>'
 categories:
@@ -18,9 +21,21 @@ tags:
 ---
 
 ## Human Genome Variation
+### Clinical interpretation (I) and representation (II) of variants from human genomes
 #### Alex H. Wagner
 
 <!--more-->
+
+The lecture will present challenges from the nee to interpret genome variants
+in the context of "Precision Medicine", with regards of their diagnostic and 
+therapeutic implications. The main focus of the lecture will be "Precision 
+Oncology", and how new concepts in resource aggregation, open and participatory 
+annotation models, "crowd" sourcing and knowledge ecosystem integration as well 
+as computational tools and APIs can overcome the limitations of singular 
+resources.
+Another part of the lecture will touch upon the problem of ambiguous variant 
+representations and how a new effort of the Global Alliance for Genomics and 
+Health ([GA4GH](https://ga4gh.org)) atttempts to solve this problem.
 
 
 ## Genome Data & Privacy
