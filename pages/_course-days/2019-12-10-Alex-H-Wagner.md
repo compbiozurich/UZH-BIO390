@@ -33,9 +33,11 @@ Oncology", and how new concepts in resource aggregation, open and participatory
 annotation models, "crowd" sourcing and knowledge ecosystem integration as well 
 as computational tools and APIs can overcome the limitations of singular 
 resources.
+
 Another part of the lecture will touch upon the problem of ambiguous variant 
-representations and how a new effort of the Global Alliance for Genomics and 
-Health ([GA4GH](https://ga4gh.org)) atttempts to solve this problem.
+representations and how a new "Genomic Knowledge Standards" effort of the Global 
+Alliance for Genomics and Health ([GA4GH](https://ga4gh.org)) attempts to solve 
+this problem.
 
 
 ## Genome Data & Privacy
