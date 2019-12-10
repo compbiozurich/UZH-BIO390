@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
 pdf_file_name: 				# name of PDF (no path) somewhere in "assets"; auto-linked
 www_links_formatted:  # one or more formatted html links
-  - '<a href="/UZH-BIO390/course-material/2019-12-11___Alex-H-Wagner__Human-Genome-Variation__UZH-BIO390-HS19-lecture-13A.pdf">[slides "Genomic Variants"]</a>'
+  - '<a href="/UZH-BIO390/course-material/2019-12-11___Alex-H-Wagner__Clinical-Knowledgebases-and-Learning__UZH-BIO390-HS19-lecture-13A">[slides "Wagner Slides"]</a>'
   - '<a href="/UZH-BIO390/course-material/2019-12-11___Michael_Baudis__Genomes-and-Privacy__UZH-BIO390-HS19-lecture-13B.pdf">[slides "Genomic Privacy"]</a>'
   - '<a href="https://civicdb.org">[CIVIC]</a>'
   - '<a href="https://cancervariants.org">[VICC]</a>'
