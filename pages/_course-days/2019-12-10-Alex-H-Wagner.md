@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
 pdf_file_name: 				# name of PDF (no path) somewhere in "assets"; auto-linked
 www_links_formatted:  # one or more formatted html links
-  - '<a href="/UZH-BIO390/course-material/2019-12-11___Alex-H-Wagner__Clinical-Knowledgebases-and-Learning__UZH-BIO390-HS19-lecture-13A">[slides "Wagner Slides"]</a>'
+  - '<a href="/UZH-BIO390/course-material/2019-12-11___Alex-H-Wagner__Clinical-Knowledgebases-and-Learning__UZH-BIO390-HS19-lecture-13A.pdf">[slides "Knowledgebases and Learning"]</a>'
   - '<a href="/UZH-BIO390/course-material/2019-12-11___Michael_Baudis__Genomes-and-Privacy__UZH-BIO390-HS19-lecture-13B.pdf">[slides "Genomic Privacy"]</a>'
   - '<a href="https://civicdb.org">[CIVIC]</a>'
   - '<a href="https://cancervariants.org">[VICC]</a>'
@@ -21,6 +21,7 @@ tags:
 ---
 
 ## Clinical Interpretation Knowledgebases
+### (I) Clinical Interpretation Knowledgebases and (II) Learning Bioinformatics
 #### Alex H. Wagner
 
 <!--more-->
@@ -38,12 +39,7 @@ representations and how a new "Genomic Knowledge Standards" effort of the Global
 Alliance for Genomics and Health ([GA4GH](https://ga4gh.org)) attempts to solve 
 this problem.
 
-## Learning Bioinformatics
-#### Alex H. Wagner
-
-<!--more-->
-
-This short lecture will focus on the keys to advancing your bioinformatics
+A second short lecture will focus on the keys to advancing your bioinformatics
 knowledge and skills beyond this course. Pragmatic advice, common tools, and 
 learning resources are discussed.
 
