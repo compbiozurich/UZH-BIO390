@@ -25,7 +25,7 @@ This is a repository for materials related to the BIO390 _Introduction to Bioinf
 
 * English
 
-#### [Final Program]({{ "/news/2020/08/27/BIO390-2020-programme.html" | relative_url }}) and day-by-day [Schedule]({{ "/categories/lectures.html" | relative_url }})
+#### [Programme]({{ "/news/2020/08/27/BIO390-2020-programmme.html" | relative_url }}) and day-by-day [Schedule]({{ "/categories/lectures.html" | relative_url }})
 
 #### Summary
 
