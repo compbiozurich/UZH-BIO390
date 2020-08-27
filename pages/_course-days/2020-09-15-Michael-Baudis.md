@@ -12,6 +12,7 @@ www_links_formatted:
 categories:
   - lectures
 tags:
+  - 2020
   - material
   - days
 ---
