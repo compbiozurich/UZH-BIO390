@@ -30,38 +30,34 @@ Please also see the [individual pages]({{"/UZH-BIO390/categories/lectures.html" 
 
 #### Individual Lectures
 
+{%- assign today = site.time | date: '%Y%m%d' -%}
+{%- assign current_year = site.time | date: '%Y' -%}
 {%- assign this_category = "lectures" -%}
 
 {%- assign cat_posts = site.emptyArray -%}
 {%- for post in site.documents -%}
   {%- if post.categories contains this_category -%}
-    {%- assign cat_posts = cat_posts | push: post -%}
-  {%- endif -%}
-{%- endfor -%}
-
-{%- assign cat_posts = cat_posts | sort: 'date' -%}
-
-{%- assign today = site.time | date: '%Y%m%d' -%}
-
-{%- for post in cat_posts -%}
-  {% unless post.tags contains '.prepend' or post.tags contains '.append' %}
-    {%- assign post_author = post.author | downcase -%}
-    {%- assign excerpt_link = post.url | relative_url -%}
-    {%- if post.excerpt_link contains '/' -%}
-      {%- assign excerpt_link = post.excerpt_link -%}
-    {%- endif -%}
-    {%- assign post_day = post.date | date: '%Y%m%d' -%}
     {%- assign post_year = post.date | date: '%Y' -%}
     {%- unless current_year != post_year -%}
+      {% unless post.tags contains '.prepend' or post.tags contains '.append' %}
+        {%- assign cat_posts = cat_posts | push: post -%}
+      {% endunless %}
+    {% endunless %}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign cat_posts = cat_posts | sort: 'date' -%}
+
+{%- for post in cat_posts -%}
+  {%- assign post_author = post.author | downcase -%}
+  {%- assign excerpt_link = post.url | relative_url -%}
+  {%- assign post_day = post.date | date: "%Y-%m-%d" -%}
 <div class="excerpt">
-  <h4>{{ post.date | date: "%Y-%m-%d" }}</h4>
+<h4>{{ post_day }}</h4>
 <a href="{{ excerpt_link }}">{{ post.excerpt }}</a>
-  <p class="footnote">
-      {%- if post.author -%}{{ post.author | join: " | " }}&nbsp;{%- endif -%}
-      {%- if post.date -%}{{ post.date | date: "%Y-%m-%d" }}: {% endif %}
- <a href="{{ excerpt_link }}">more ...</a>
-  </p>
+<p class="footnote">
+  {%- if post.author -%}{{ post.author | join: " | " }}&nbsp;{%- endif -%}
+  {%- if post.date -%}{{ post.date | date: "%Y-%m-%d" }}: {% endif %}
+<a href="{{ excerpt_link }}">more ...</a>
+</p>
 </div>
-    {% endunless %}  
-  {% endunless %}  
 {%- endfor -%}
