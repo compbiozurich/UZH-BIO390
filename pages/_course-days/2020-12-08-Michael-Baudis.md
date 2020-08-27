@@ -15,7 +15,7 @@ www_links_formatted:  # one or more formatted html links
 categories:
   - lectures
 tags:
-  - 2020
+  - "2020"
   - material
   - days
 ---
