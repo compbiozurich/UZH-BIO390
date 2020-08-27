@@ -1,7 +1,7 @@
 ---
 title: "UZH BIO390 - Introduction to Bioinformatics Lecture Series"
 layout: default
-date: 2019-08-27
+date: 2020-08-27
 permalink: /index.html
 author: "@mbaudis"
 category:
@@ -25,7 +25,7 @@ This is a repository for materials related to the BIO390 _Introduction to Bioinf
 
 * English
 
-#### [Final Program]({{ "/news/2019/09/10/BIO390-2019-programme.html" | relative_url }}) and day-by-day [Schedule]({{ "/categories/lectures.html" | relative_url }})
+#### [Final Program]({{ "/news/2020/08/27/BIO390-2020-programme.html" | relative_url }}) and day-by-day [Schedule]({{ "/categories/lectures.html" | relative_url }})
 
 #### Summary
 
