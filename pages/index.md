@@ -33,11 +33,11 @@ The handling and analysis of biological data using computational methods has bec
 
 #### Learning Goals
 
-The overall learning goals - especially the (limited) set necessary for passing the test - will be updated throughout the semester. 
+The overall learning goals - especially the (limited) set necessary for passing the test - will be updated throughout the semester.
 
 * Core [__Learning Goals__]({{ "/doc/learning-goals.html" | relative_url }})
 
-This list is not exhaustive; additional information about "need to know" topics 
+This list is not exhaustive; additional information about "need to know" topics
 will be provided during the individual lectures.
 
 #### Literature and Resources
@@ -49,4 +49,40 @@ will be provided during the individual lectures.
 
 * BIO390 HS 2020 in the [UZH OLAT](https://lms.uzh.ch/auth/RepositoryEntry/16616980617/CourseNode/96340384480623) system
 * BIO390 HS 2020 in the [UZH directory](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?#/details/2020/003/SM/51009472)
- 
+
+
+
+#### 2020 Lectures
+
+
+{%- assign today = site.time | date: '%Y%m%d' -%}
+{%- assign current_year = site.time | date: '%Y' -%}
+{%- assign this_category = "lectures" -%}
+
+{%- assign cat_posts = site.emptyArray -%}
+{%- for post in site.documents -%}
+  {%- if post.categories contains this_category -%}
+    {%- assign post_year = post.date | date: '%Y' -%}
+    {%- unless current_year != post_year -%}
+      {% unless post.tags contains '.prepend' or post.tags contains '.append' %}
+        {%- assign cat_posts = cat_posts | push: post -%}
+      {% endunless %}
+    {% endunless %}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign cat_posts = cat_posts | sort: 'date' -%}
+
+{%- for post in cat_posts -%}
+  {%- assign post_author = post.author | downcase -%}
+  {%- assign excerpt_link = post.url | relative_url -%}
+  {%- assign post_day = post.date | date: "%Y-%m-%d" -%}
+<div class="excerpt">
+<h4>{{ post_day }}</h4>
+<a href="{{ excerpt_link }}">{{ post.excerpt }}</a>
+<p class="footnote">
+  {%- if post.author -%}{{ post.author | join: " | " }}&nbsp;{%- endif -%}
+  {%- if post.date -%}{{ post.date | date: "%Y-%m-%d" }}: {% endif %}
+<a href="{{ excerpt_link }}">more ...</a>
+</p>
+</div>
+{%- endfor -%}
