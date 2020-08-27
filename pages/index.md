@@ -47,6 +47,6 @@ will be provided during the individual lectures.
 
 #### Links
 
-* BIO390 HS 2019 in the [UZH OLAT](https://lms.uzh.ch/auth/RepositoryEntry/16616980617) system
-* BIO390 HS 2019 in the [UZH directory](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html#/details/2019/003/SM/50858977)
+* BIO390 HS 2020 in the [UZH OLAT](https://lms.uzh.ch/auth/RepositoryEntry/16616980617/CourseNode/96340384480623) system
+* BIO390 HS 2020 in the [UZH directory](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?#/details/2020/003/SM/51009472)
  
