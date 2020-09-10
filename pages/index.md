@@ -37,7 +37,7 @@ Additional to this, remote options will be provided:
 * lecture slides and tasks will be posted by the lecturers and linked from the
 daily pages and/or deposited in OLAT
 * podcasts will be made available (with delay)
-* optional/possibly: live streaming
+* optional/possibly: live streaming (ZOOM)
 
 #### [Programme]({{ "/news/2020/08/27/BIO390-2020-programmme.html" | relative_url }}) and day-by-day [Schedule]({{ "/categories/lectures.html" | relative_url }})
 
