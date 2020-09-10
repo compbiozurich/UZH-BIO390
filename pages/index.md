@@ -39,6 +39,9 @@ daily pages and/or deposited in OLAT
 * podcasts will be made available (with delay)
 * optional/possibly: live streaming (ZOOM)
 
+However, while those remote options will provide an alternative we still encourage
+in person attendance while observing the [university's safety concept](https://www.uzh.ch/cmsssl/en/about/coronavirus/safetyconcept.html) and regulations.
+
 #### [Programme]({{ "/news/2020/08/27/BIO390-2020-programmme.html" | relative_url }}) and day-by-day [Schedule]({{ "/categories/lectures.html" | relative_url }})
 
 #### Summary
