@@ -19,11 +19,25 @@ This is a repository for materials related to the BIO390 _Introduction to Bioinf
 
 * 1 x 2h / week
 * Tue 08:00-09:45
-* UZH Irchel campus, Y-03G-85
+* UZH Irchel campus, **NEW Y15-G-60**
 
 #### Course Language
 
 * English
+
+### 2020 COVID19 Regulations - On Site & Remote
+
+Due to the limits imposed on on-site access, an "[On Site Reservation System](https://lms.uzh.ch/auth/RepositoryEntry/16814276758/CourseNode/102334338362995)"
+has been established. It will allow a (rotating) set of students to attend the
+lectures on Irchel. With the current numbers of registered students we expect to
+be able to host ca. 50% per lecture on site.
+
+Additional to this, remote options will be provided:
+
+* lecture slides and tasks will be posted by the lecturers and linked from the
+daily pages and/or deposited in OLAT
+* podcasts will be made available (with delay)
+* optional/possibly: live streaming
 
 #### [Programme]({{ "/news/2020/08/27/BIO390-2020-programmme.html" | relative_url }}) and day-by-day [Schedule]({{ "/categories/lectures.html" | relative_url }})
 
@@ -47,5 +61,5 @@ will be provided during the individual lectures.
 
 #### Links
 
-* BIO390 HS 2020 in the [UZH OLAT](https://lms.uzh.ch/auth/RepositoryEntry/16616980617/CourseNode/96340384480623) system
+* BIO390 HS 2020 in the [UZH OLAT](https://lms.uzh.ch/auth/RepositoryEntry/16814276758/CourseNode/85421310414617) system
 * BIO390 HS 2020 in the [UZH directory](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?#/details/2020/003/SM/51009472)
