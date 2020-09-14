@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 pdf_file_name:
 www_link:
 www_links_formatted:
-  - '<a href="/UZH-BIO390/course-material/2019-09-17___Michael_Baudis__What_is_Bioinformatics__UZH-BIO390-HS19-lecture-01.pdf" target="_blank">[2019 lecture slides]</a>'
+  - '<a href="/UZH-BIO390/course-material/2020-09-15___Michael_Baudis__What_is_Bioinformatics__UZH_BIO390.pdf" target="_blank">[2020 lecture slides]</a>'
   - '<a href="/UZH-BIO390/categories/people.html">[Course Lecturers]</a>'
 categories:
   - lectures
@@ -36,4 +36,4 @@ Topics covered in the lecture are e.g.:
 * file Formats, ontologies & APIs ass areas/topics (w/o details)
 * "not-bioinformatics"
 
-At the end of the lecture, a brief introduction into the relevance of different aspects of bioinformatics for human genome variation is being given.
+At the end of the lecture, a - very - brief introduction into the relevance of different aspects of bioinformatics for human genome variation is being given.
