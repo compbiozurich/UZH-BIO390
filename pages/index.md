@@ -21,6 +21,7 @@ This is a repository for materials related to the BIO390 _Introduction to Bioinf
 * Tue 08:00-09:45
 * UZH Irchel campus, **NEW Y15-G-60**
 * OLAT [On Site Reservation System](https://lms.uzh.ch/auth/RepositoryEntry/16814276758/CourseNode/102334338362995)
+* ZOOM live stream (links posted in OLAT)
 
 #### Course Language
 
@@ -38,7 +39,7 @@ Additional to this, remote options will be provided:
 * lecture slides and tasks will be posted by the lecturers and linked from the
 daily pages and/or deposited in OLAT
 * podcasts will be made available (with delay)
-* optional/possibly: live streaming (ZOOM)
+* optional/possibly: live streaming (ZOOM); please see OLAT
 
 However, while those remote options will provide an alternative we still encourage
 in person attendance while observing the [university's safety concept](https://www.uzh.ch/cmsssl/en/about/coronavirus/safetyconcept.html) and regulations.
