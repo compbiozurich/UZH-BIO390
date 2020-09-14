@@ -9,7 +9,7 @@ category:
   - people
 tags:
   - UZH
-  - teachers
+  - previous_teachers
 ---
 
 {% for static_file in site.static_files %}
@@ -25,4 +25,3 @@ tags:
 * University of Zürich
 
 <!--more-->
-

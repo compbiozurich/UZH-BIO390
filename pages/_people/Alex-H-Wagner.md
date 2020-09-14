@@ -8,7 +8,7 @@ image_file: 'Alex-H-Wagner.jpg'
 category:
   - people
 tags:
-  - teachers
+  - previous_teachers
 ---
 
 {% for static_file in site.static_files %}
@@ -25,8 +25,3 @@ tags:
 * GKS VR Lead, Global Alliance for Genomics and Health (GA4GH)
 
 <!--more-->
-
-
-
-
-

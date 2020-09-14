@@ -8,7 +8,7 @@ image_file: 'Christophe-Dessimoz.png'
 category:
   - people
 tags:
-  - teachers
+  - previous_teachers
 ---
 
 {% for static_file in site.static_files %}
@@ -24,8 +24,3 @@ tags:
 * Group leader, Swiss Institute for Bioinformatics
 
 <!--more-->
-
-
-
-
-
