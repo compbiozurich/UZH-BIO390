@@ -23,4 +23,4 @@ tags:
 
 The analysis of biological sequences - primarily DNA, RNA and protein sequences -
 constitutes one of earliest and core areas of bioinformatics. This lecture introduces
-principles and examples of bioinformatic sequence analyses and comparisons.
+principles and examples of bioinformatic sequence analyses and inter-sequence comparisons.
