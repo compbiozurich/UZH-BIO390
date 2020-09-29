@@ -8,7 +8,7 @@ pdf_file_name:
 www_link:
 www_links_formatted:
   - '<a href="/UZH-BIO390/course-material/2020-09-15___Michael_Baudis__What_is_Bioinformatics__UZH-BIO390-HS20-lecture-01" target="_blank">[2020 lecture slides]</a>'
-  - '<a href="http://internal.baudisgroup.org/assets/data/2020-09-15___Michael_Baudis__What_is_Bioinformatics__UZH-BIO390-HS20-lecture-01__recording.mp4" target="_blank">[2020 lecture recording]</a>'
+  - '<a href="http://internal.baudisgroup.org/assets/data/2020-09-15___Michael_Baudis__What_is_Bioinformatics__UZH-BIO390-HS20-lecture-01__recording.mp4" target="_blank">[2020 lecture recording]</a>(MP4 105MB; UZH internal / VPN)'
   - '<a href="/UZH-BIO390/categories/people.html">[Course Lecturers]</a>'
 categories:
   - lectures
