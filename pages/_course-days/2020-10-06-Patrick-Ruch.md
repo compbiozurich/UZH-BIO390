@@ -19,4 +19,6 @@ tags:
 ## Text Mining
 #### Patrick Ruch (University of Geneva)
 
+Due to current COVID19 related concerns this lecture will only be presented over ZOOM. The link is accessible [through the OLAT system](https://lms.uzh.ch/auth/RepositoryEntry/16814276758/CourseNode/96340384480623).
+
 <!--more-->
