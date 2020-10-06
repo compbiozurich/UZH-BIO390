@@ -5,7 +5,7 @@ author:
   - ""
 excerpt_separator: <!--more-->
 www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
-pdf_file_name:
+pdf_file_name: 2020-10-06___Patrick-Ruch__Text-Mining__UZH-BIO390-HS20-lecture-04.pdf
 www_links_formatted:  # one or more formatted html links
   - '<a href="/UZH-BIO390/categories/people.html">[Course Lecturers]</a>'
 categories:
@@ -19,4 +19,4 @@ tags:
 ## Text Mining
 #### Patrick Ruch (University of Geneva)
 
-<!--more-->
+Search engines, stemming, NGRAMs ... and much more.
