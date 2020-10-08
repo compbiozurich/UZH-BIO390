@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
 pdf_file_name: 2020-10-06___Patrick-Ruch__Text-Mining__UZH-BIO390-HS20-lecture-04.pdf
 www_links_formatted:  # one or more formatted html links
-  - '<a href="/UZH-BIO390/categories/people.html">[Course Lecturers]</a>'
+  - '<a href="http://progenetix.org/storage-ext/2020-10-06___Patrick-Ruch__Text-Mining__UZH-BIO390-HS20-lecture-04.m4v">[Lecture Video]</a> (ca. 1.2GB .m4v)'
 categories:
   - lectures
 tags:
