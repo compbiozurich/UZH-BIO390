@@ -15,6 +15,8 @@ tags:
 
 This is a repository for materials related to the BIO390 _Introduction to Bioinformatics_ lecture series at the University of Zürich.
 
+#### [Programme]({{ "/news/2020/08/27/BIO390-2020-programmme.html" | relative_url }}) and day-by-day [Schedule]({{ "/categories/lectures.html" | relative_url }})
+
 #### Time & Place
 
 * 1 x 2h / week
@@ -27,24 +29,30 @@ This is a repository for materials related to the BIO390 _Introduction to Bioinf
 
 * English
 
-### 2020 COVID19 Regulations - On Site & Remote
+### 2020 COVID19 Regulations
 
+**NEW 2020-11-02**
+
+In a change to the previous "hybrid" model, lactures are now online only:
+
+<!--
 Due to the limits imposed on on-site access, an "[On Site Reservation System](https://lms.uzh.ch/auth/RepositoryEntry/16814276758/CourseNode/102334338362995)"
 has been established. It will allow a (rotating) set of students to attend the
 lectures on Irchel. With the current numbers of registered students we expect to
 be able to host ca. 50% per lecture on site.
 
 Additional to this, remote options will be provided:
+-->
 
+* live streaming (ZOOM); please see OLAT for the link
 * lecture slides and tasks will be posted by the lecturers and linked from the
 daily pages and/or deposited in OLAT
+<!--
 * podcasts will be made available (with delay)
-* optional/possibly: live streaming (ZOOM); please see OLAT
 
 However, while those remote options will provide an alternative we still encourage
 in person attendance while observing the [university's safety concept](https://www.uzh.ch/cmsssl/en/about/coronavirus/safetyconcept.html) and regulations.
-
-#### [Programme]({{ "/news/2020/08/27/BIO390-2020-programmme.html" | relative_url }}) and day-by-day [Schedule]({{ "/categories/lectures.html" | relative_url }})
+-->
 
 #### Summary
 
