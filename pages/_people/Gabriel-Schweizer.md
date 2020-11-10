@@ -4,7 +4,7 @@ layout: default
 date: 2020-11-10
 excerpt_separator: <!--more-->
 excerpt_link: 'https://www.ieu.uzh.ch/en/staff/member/schweizer_gabriel.html'
-image_file: 'Schweizer.png'
+image_file: 'Schweizer.jpg'
 category:
   - people
 tags:
