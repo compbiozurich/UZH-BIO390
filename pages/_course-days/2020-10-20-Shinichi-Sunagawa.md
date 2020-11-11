@@ -8,7 +8,7 @@ www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
 pdf_file_name:
 www_links_formatted:
   - '<a href="/UZH-BIO390/course-material/2020-10-20___Shinichi-Sunagawa__Metagenomics__UZH-BIO390-HS20-lecture-06.pdf" target="_blank">[2020 lecture slides]</a>'
-  - '<a href="http://internal.baudisgroup.org/assets/data/2020-10-20___Shinichi-Sunagawa__Metagenomics__UZH-BIO390-HS20-lecture-06.mov" target="_blank">[lecture video recording] (ca. 150MB .mov)</a>'
+  - '<a href="http://baudisgroup.org/storage-ext/2020-10-20___Shinichi-Sunagawa__Metagenomics__UZH-BIO390-HS20-lecture-06-recording.mov" target="_blank">[lecture video recording] (ca. 150MB .mov)</a>'
 categories:
   - lectures
 tags:

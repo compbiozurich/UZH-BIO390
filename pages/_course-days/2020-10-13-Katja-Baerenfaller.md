@@ -8,7 +8,7 @@ www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
 pdf_file_name:     # name of PDF (no path) somewhere in "assets"; auto-linked
 www_links_formatted:  # one or more formatted html links
   - '<a href="/UZH-BIO390/course-material/2020-10-13___Katja-Baerenfaller__Proteomics__BIO390-HS20-lecture-05.pdf">[2020 Lecture Slides]</a>'
-  - '<a href="http://internal.baudisgroup.org/assets/data/2020-10-20___Katja-Baerenfaller__Proteomics__UZH-BIO390-HS20-lecture-05.mp4">[2020 Lecture Recording]</a> (270MB .mp4)'
+  - '<a href="http://baudisgroup.org/storage-ext/2020-10-13___Katja-Baerenfaller__Proteomics__UZH-BIO390-HS20-lecture-05-recording.mp4">[2020 Lecture Recording]</a> (270MB .mp4)'
 categories:
   - lectures
 tags:
