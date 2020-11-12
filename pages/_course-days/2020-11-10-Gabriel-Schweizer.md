@@ -9,7 +9,7 @@ pdf_file_name: 				# name of PDF (no path) somewhere in "assets"; auto-linked
 www_links_formatted:  # one or more formatted html links
   - '<a href="/UZH-BIO390/course-material/2020-11-10___Gabriel-Schweizer__Biological-Networks__UZH-BIO390-HS20-lecture-08.pdf">[lecture slides]</a>'
   - '<a href="/UZH-BIO390/course-material/2020-11-10___Gabriel-Schweizer__Biological-Networks__UZH-BIO390-HS20-lecture-08-exercises.pdf">[exercises]</a>'
-  - '<a href="http://progenetix.org/storage-ext/2020-11-10___Gabriel-Schweizer__Biological-Networks__UZH-BIO390-HS20-lecture-09-recording.mov">[lecture recording]</a> (110MB .mov)'
+  - '<a href="http://progenetix.org/storage-int/2020-11-10___Gabriel-Schweizer__Biological-Networks__UZH-BIO390-HS20-lecture-09-recording.mov">[lecture recording]</a> (110MB .mov; UZH internal/VPN)'
 
 categories:
   - lectures
