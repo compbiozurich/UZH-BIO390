@@ -8,7 +8,7 @@ www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
 pdf_file_name:
 www_links_formatted:  # one or more formatted html links
   - '<a href="/UZH-BIO390/course-material/2019-09-29___Christian-von-Mering__Biological-Sequence-Informatics__UZH-BIO390-HS20-lecture-03.pdf" target="_blank">[lecture slides]</a>'
-  - '<a href="http://baudisgroup.org/storage-int/2020-09-29___Christian-von-Mering__Sequence-Analysis__BUZH-BIO390-HS20-lecture-03-recording.mp4" target="_blank">[lecture video]</a> (MP4 140MB; UZH internal / VPN)'
+  - '<a href="http://internal.progenetix.org/recordings/2020-09-29___Christian-von-Mering__Sequence-Analysis__BUZH-BIO390-HS20-lecture-03-recording.mp4" target="_blank">[lecture video]</a> (MP4 140MB; UZH internal / VPN)'
   - '<a href="/UZH-BIO390/categories/people.html">[Course Lecturers]</a>'
 categories:
   - lectures
