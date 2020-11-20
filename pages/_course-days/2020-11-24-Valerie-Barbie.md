@@ -7,8 +7,7 @@ excerpt_separator: <!--more-->
 www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
 pdf_file_name: 				# name of PDF (no path) somewhere in "assets"; auto-linked
 www_links_formatted:
-  - '<a href="/UZH-BIO390/course-material/2019-11-26___Valerie-Barbie__Clinical-Bioinformatics__UZH-BIO390-HS19-lecture-10.pdf" target="_blank">[2019 lecture slides]</a>'
-  - '<a href="/UZH-BIO390/categories/people.html">[Course Lecturers]</a>'
+  - '<a href="/UZH-BIO390/course-material/2020-11-24___Valerie-Barbie__Clinical-Bioinformatics__UZH-BIO390-HS20-lecture-11.pdf" target="_blank">[2020 lecture slides]</a>'
 categories:
   - lectures
 tags:
