@@ -17,13 +17,11 @@ tags:
 ---
 
 ## Building a Genomics Resource
-#### Michael Baudis
+#### Michael Baudis & Qingyao Huang
 
-In this lecture I will use our Progenetix resource, a website providing information
+In this lecture we will use our Progenetix resource, a website providing information
 about genomic copy number mutations in cancer - to present the different components
 needed for generating, storing, representing, visualizing and accessing a specific
 type of genomic data and associated classifications.
-
-
 
 <!--more-->
