@@ -8,6 +8,7 @@ pdf_file_name:
 www_links_formatted:  # one or more formatted html links
   - '<a href="http://progenetix.org/storage-ext/2020-12-01___Michael-Baudis__Building-a-Genomics-Resource__UZH-BIO390-HS20-lecture-12.pdf">[lecture slides part 1]</a>'
   - '<a href="http://progenetix.org/storage-ext/2020-12-01___Qingyao__UZH-BIO390-HS20-progenetix_update.pdf">[lecture slides part 2]</a>'
+  - '<a href="http://progenetix.org/storage-ext/2020-12-01___Michael-Baudis-and-Qingyao-Huang__Building-a-Genomics-Resource__UZH-BIO390-HS20-lecture-12-recording.mov">[lecture recording, combined]</a> (171MB .mov)'
 categories:
   - lectures
 tags:
