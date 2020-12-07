@@ -77,15 +77,6 @@ __Cave__: Please be aware that some of the "Learning Goals" may reflect aspects 
 * principles of proteome organization in the cell
 * key experimental and computational concepts  for the collection and analysis of high confidence protein-protein interaction data
 
-#### Molecular Dynamics
-
-* atomistic model 
-* force field (potential energy function)
-* treatment of solvent
-* molecular dynamics (Newton equation of motion; Langevin equation)
-* simulations of peptides and proteins
-* statistical error and systematic error
-
 #### Clinical Bioinformatics & Personalized Medicine
 
 * genomic variants (types, numbers)
@@ -98,15 +89,12 @@ __Cave__: Please be aware that some of the "Learning Goals" may reflect aspects 
 * currently favoured clinical NGS technology
 * clinical trial participation
 
-<!--
 #### Text Mining
 
 * text mining pipelines & (current) common programs/applications
 * article/literature repositories (with focus on accessibility)
 * processing steps in text mining
 * common problems in text mining
-
--->
 
 #### Biological Networks
 
