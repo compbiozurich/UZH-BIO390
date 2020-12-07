@@ -19,9 +19,9 @@ tags:
 ## Genome Data & Privacy
 #### Michael Baudis
 
-<!--more-->
-
 The understanding of the impact of individual inherited and somatic genome variants on phenotypes and diseases requires a thorough understanding of the occurrence of such variants amongst populations in general and carriers of the phenotypes and diseases in particular. This information can only be provided through the inclusion of data from a multitude of genome resources in variant evaluation efforts, including such from outside (international) jurisdictions. However, opening such resources carries the inherent risk of breaching privacy, particularly through re-identification of individuals or their relatives and potentially through the exposure of individual genome-related personal information including  phenotypic and "performance" prediction and relative disease risk.
+
+<!--more-->
 
 On the other hand, direct-to-consumer (DTC) testing has found widespread use with millions of individuals depositing some kind of genotyping data in open or closed repositories, thereby facilitating "long-range re-identification attacks" against individuals through identification of their relatives. And new DNA analysis techniques enable sequencing without the need for expensive equipment or high-tech laboratories.
 
@@ -36,6 +36,7 @@ This part of the course will address some of the issues related to the sharing o
 * Why do we need a lot of data for understanding genomic variation in health and disease?
   - [The need for cohorts of 10 million+ humans](https://internal.baudisgroup.org/pdf/2017-10-15___Bierney__GA4GH_genomics_2022__biorxiv.pdf)
   - https://internal.baudisgroup.org/pdf/2019-01-25___Amann%2C-Xenarios-et-al.__Toward-unrestricted-use-of-public-genomic-data__Science.pdf
+
 #### Data sharing protocols ...
 
 * Beacon
