@@ -8,6 +8,7 @@ www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
 pdf_file_name: 				# name of PDF (no path) somewhere in "assets"; auto-linked
 www_links_formatted:  # one or more formatted html links
   - '<a href="/UZH-BIO390/course-material/2020-12-08___Michael-Baudis__Genomic-data-and-Privacy__UZH-BIO390-HS20-lecture-13.pdf">[2020 slides "Genomic Privacy"]</a>'
+  - '<a href="http://progenetix.org/storage-ext/2020-12-08___Michael-Baudis__Genome-Data-and-Privacy__UZH-BIO390-HS20-lecture-13-recording.mov" target="_blank">[lecture recording]</a> (176MB .mov)'
 categories:
   - lectures
 tags:
