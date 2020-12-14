@@ -1,7 +1,7 @@
 ---
 title: "UZH BIO390 - Learning Goals"
 layout: default
-date: 2019-12-04
+date: 2020-12-14
 permalink: /doc/learning-goals.html
 author: "@mbaudis"
 category:
@@ -24,12 +24,17 @@ __Cave__: Please be aware that some of the "Learning Goals" may reflect aspects 
 * definition of "Bioinformatics" (cf. Anna Tramontano)
 * categories of informatics tools used in bioinformatics
 * hypothesis versus data driven science
-* areas of bioinformatics/bioinformaticians, in contrast to ("pure" modelling, statistics etc.)
+* areas of bioinformatics/bioinformaticians, (in contrast to "pure" modelling, statistics etc.)
 * 3 main categories of biological data, and example resources
 * definition of API
 * common sequence related file formats
 * hierarchies and relationships as 2 main principles of ontologies
 * areas of "not-bioinformatics", and why
+
+#### Bioinformatics tools & resources
+
+* common programming/analysis languages in bioinformatics and their preferred use
+* components of bioinformatics online resources
 
 #### Sequence Analysis
 
@@ -81,13 +86,15 @@ __Cave__: Please be aware that some of the "Learning Goals" may reflect aspects 
 
 * genomic variants (types, numbers)
 * genomic privacy and re-identification (concepts)
+* reference genome(s)
 * Beacon example
 * long range familial searches
 * main bottlenecks of molecular diagnostics in the clinical setting
 * goals of many personalized health initiatives
 * direct-to-consumer genetic testing -> what, how
-* currently favoured clinical NGS technology
+* currently favoured _clinical_ NGS technology
 * clinical trial participation
+* genotype-phenotype (ab-)use
 
 #### Text Mining
 
@@ -95,6 +102,8 @@ __Cave__: Please be aware that some of the "Learning Goals" may reflect aspects 
 * article/literature repositories (with focus on accessibility)
 * processing steps in text mining
 * common problems in text mining
+* search engine precision metrics
+* benchmarking
 
 #### Biological Networks
 
@@ -110,7 +119,7 @@ __Cave__: Please be aware that some of the "Learning Goals" may reflect aspects 
 * assortative and disassortative graphs
 * clustering coefficient
 * community (module) detection
-*  modularity Q
+* modularity Q
 * Girvan-Newman algorithm
 * cliques
 * small world graphs
