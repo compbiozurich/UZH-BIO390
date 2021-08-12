@@ -12,7 +12,7 @@ pdf_file_name: # the name of a PDF (no path) somewhere in "assets", which will b
 categories: # please adjust
 #  - news
 #  - minutes
-tags: # please adjust; see tags -n _config.yml (or extend them there, too)
+tags: # please adjust; see tags -n _config.yaml (or extend them there, too)
 #  - press
 #  - faq
 #  - contacts

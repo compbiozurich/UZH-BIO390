@@ -4,7 +4,7 @@
 The bootstrap_site is a utility for creating the structure of __Progenetix 
 Jekyll Website Template__ based websites. The current functions are:
 
-* create list pages for all categories defined in `_config.yml`, separate for
+* create list pages for all categories defined in `_config.yaml`, separate for
 standard (alphabetically sorted) and reverse date sorted categories
 * as for categories, do the same for tags
 * check/add collections directories
@@ -34,7 +34,7 @@ my @cat_blocks  =   qw(General Products);
 
 my $here_path   =   File::Basename::dirname( eval { ( caller() )[1] } );
 my $base_path   =   $here_path.'/..';
-our $config     =   LoadFile($base_path.'/_config.yml') or die "¡No _config.yml file in this path!";
+our $config     =   LoadFile($base_path.'/_config.yaml') or die "¡No _config.yaml file in this path!";
 
 print $base_path."\n";
 
@@ -77,7 +77,7 @@ END
 =podmd
 #### Listing pages for `categories` and `tags`
 
-For `categories` and `tags` annotated in the `_config.yml` file, a default 
+For `categories` and `tags` annotated in the `_config.yaml` file, a default 
 landing page (i.e. this_category.md, this_tag.md) is being generated and linked 
 to.
 
