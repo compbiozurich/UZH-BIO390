@@ -1,5 +1,5 @@
 ---
-title: 'Poria Dasmeh - Biological Networks'
+title: 'Pouria Dasmeh - Biological Networks'
 layout: default
 author:
   - "@mbaudis"
@@ -18,6 +18,6 @@ tags:
 ---
 
 ## Biological Networks
-#### Gabriel Schweizer
+#### Puria Dasmeh
 
 <!--more-->
