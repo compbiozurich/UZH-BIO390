@@ -15,13 +15,15 @@ tags:
 
 This is a repository for materials related to the BIO390 _Introduction to Bioinformatics_ lecture series at the University of Zürich.
 
-#### [Programme]({{ "/UZH-BIO390/courses/BIO390-HS2021-schedule.html" }}) and day-by-day [Schedule]({{ "/categories/lectures.html" | relative_url }})
+#### Programme
+
+Please see the [listing of lectures here]({{ "/UZH-BIO390/courses/BIO390-HS2021-schedule.html" }}).
 
 #### Time & Place
 
 * 1 x 2h / week
 * Tue 08:00-09:45
-* UZH Irchel campus, **NEW Y03-G-85**
+* UZH Irchel campus, **Y03-G-85**
 * OLAT [On Site Reservation System](https://lms.uzh.ch/auth/RepositoryEntry/16814276758/CourseNode/102334338362995)
 * ZOOM live stream (links posted in [OLAT](https://lms.uzh.ch/auth/RepositoryEntry/16814276758/CourseNode/85421310414617))
 
