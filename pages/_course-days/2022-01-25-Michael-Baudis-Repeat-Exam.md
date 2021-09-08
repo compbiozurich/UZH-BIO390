@@ -19,3 +19,6 @@ tags:
 ## {{ page.title }}
 
 An optional repeat exam is planned for January 25, 2022.
+
+<!--more-->
+
