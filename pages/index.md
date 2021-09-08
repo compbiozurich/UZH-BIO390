@@ -15,7 +15,7 @@ tags:
 
 This is a repository for materials related to the BIO390 _Introduction to Bioinformatics_ lecture series at the University of Zürich.
 
-#### [Programme]({{ "/news/2020/08/27/BIO390-2020-programmme.html" | relative_url }}) and day-by-day [Schedule]({{ "/categories/lectures.html" | relative_url }})
+#### [Programme]({{ "/courses/BIO390-HS2021-schedule.html" }}) and day-by-day [Schedule]({{ "/categories/lectures.html" | relative_url }})
 
 #### Time & Place
 
