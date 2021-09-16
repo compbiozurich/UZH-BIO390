@@ -22,7 +22,6 @@ tags:
 The exam will be on the last day of the course *on site*:
 
 * time: **08:15-09:15**
-* limiting on-site exposure time (*60 minutes* instead of 90)
 * multiple (single + multiple) choice w/ one or two open questions
 * no material, phones etc.
 * student ID for entrance
