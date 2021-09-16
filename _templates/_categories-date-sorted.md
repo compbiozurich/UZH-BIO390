@@ -3,7 +3,7 @@ layout: default
 ---
 
 {%- assign this_name = page.name | split: "." -%}
-{%- assign this_category = this_name[0] | replace: '-date-sorted', '' -%}
+{%- assign this_category = this_name[0] | remove: '-date-sorted' -%}
 {%- assign this_pagetitle = this_category  | capitalize | replace: '_', ' ' -%}
 
 <div id="listpage_headline_wrapper">
@@ -51,7 +51,7 @@ layout: default
 {%- assign page_tag = this_category | downcase -%}
 
 {%- for post in cat_posts -%}
-  {% unless post.tags contains '.prepend' or post.tags contains '.append' %} 
+  {% unless post.tags contains '.prepend' or post.tags contains '.append' %}
     {%- assign post_author = post.author | downcase -%}
     {%- assign excerpt_link = post.url | relative_url -%}
     {%- if post.excerpt_link contains '/' -%}

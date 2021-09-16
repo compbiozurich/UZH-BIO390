@@ -3,7 +3,7 @@ layout: default
 ---
 
 {%- assign this_name = page.name | split: "." -%}
-{%- assign this_category = this_name[0] | replace: '-alpha-sorted-reverse', '' -%}
+{%- assign this_category = this_name[0] | remove: '-alpha-sorted-reverse' -%}
 {%- assign this_pagetitle = this_category  | capitalize | replace: '_', ' ' -%}
 
 <div id="listpage_headline_wrapper">
@@ -72,7 +72,7 @@ layout: default
 {%- endcomment -%}
 
 {%- for post in cat_posts -%}
-  {% unless post.tags contains '.featured' or post.tags contains '.prepend' or post.tags contains '.append' %} 
+  {% unless post.tags contains '.featured' or post.tags contains '.prepend' or post.tags contains '.append' %}
     {%- assign excerpt_link = post.url | relative_url -%}
     {%- if post.excerpt_link contains '/' -%}
       {%- assign excerpt_link = post.excerpt_link -%}
@@ -102,4 +102,3 @@ layout: default
 </div>
   {%- endif -%}
 {%- endfor -%}
-
