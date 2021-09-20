@@ -4,10 +4,9 @@ layout: default
 author:
   - "@mbaudis"
 excerpt_separator: <!--more-->
-pdf_file_name:
+pdf_file_name: 2021-09-21___Michael_Baudis__What_is_Bioinformatics__UZH-BIO390-day-01.pdf
 www_link:
 www_links_formatted:
-  - '<a href="/UZH-BIO390/course-material/2021-09-21___Michael_Baudis__What_is_Bioinformatics__UZH-BIO390-day-01.pdf" target="_blank">[2020 lecture slides]</a>'
 categories:
   - lectures
 tags:
