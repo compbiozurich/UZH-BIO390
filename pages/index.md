@@ -24,37 +24,22 @@ Please see the [listing of lectures here]({{ "/UZH-BIO390/courses/BIO390-HS2021-
 * 1 x 2h / week
 * Tue 08:00-09:45
 * UZH Irchel campus, **Y03-G-85**
-* OLAT [On Site Reservation System](https://lms.uzh.ch/auth/RepositoryEntry/16814276758/CourseNode/102334338362995)
+* OLAT [lecture recordings](https://lms.uzh.ch/auth/RepositoryEntry/17064820858/CourseNode/104195425228088)
+
+
+<!--
 * ZOOM live stream (links posted in [OLAT](https://lms.uzh.ch/auth/RepositoryEntry/16814276758/CourseNode/85421310414617))
+-->
 
 #### Course Language
 
 * English
 
-### 2020 COVID19 Regulations
+### 2021 COVID19 Regulations
 
-**NEW 2020-11-02**
+As per current rules for labs/block courses, BIO392 is held with "in person" attendance. Please follow the UZH [Coronavirus Guidelines](https://www.uzh.ch/en/about/coronavirus/students.html).
 
-In a change to the previous "hybrid" model, lactures are now online only:
-
-<!--
-Due to the limits imposed on on-site access, an "[On Site Reservation System](https://lms.uzh.ch/auth/RepositoryEntry/16814276758/CourseNode/102334338362995)"
-has been established. It will allow a (rotating) set of students to attend the
-lectures on Irchel. With the current numbers of registered students we expect to
-be able to host ca. 50% per lecture on site.
-
-Additional to this, remote options will be provided:
--->
-
-* live streaming (ZOOM); please see OLAT for the link
-* lecture slides and tasks will be posted by the lecturers and linked from the
-daily pages and/or deposited in OLAT
-<!--
-* podcasts will be made available (with delay)
-
-However, while those remote options will provide an alternative we still encourage
-in person attendance while observing the [university's safety concept](https://www.uzh.ch/cmsssl/en/about/coronavirus/safetyconcept.html) and regulations.
--->
+We provide [lecture recordings](https://lms.uzh.ch/auth/RepositoryEntry/17064820858/CourseNode/104195425228088) through OLAT. In the case of changing situation with canceled on-site attendance or inability of lecturers to attend in person a ZOOM link will be provided.
 
 #### Summary
 
@@ -76,5 +61,5 @@ will be provided during the individual lectures.
 
 #### Links
 
-* BIO390 HS 2020 in the [UZH OLAT](https://lms.uzh.ch/auth/RepositoryEntry/16814276758/CourseNode/85421310414617) system
-* BIO390 HS 2020 in the [UZH directory](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?#/details/2020/003/SM/51009472)
+* BIO390 HS 2021 in the [UZH OLAT](https://lms.uzh.ch/auth/RepositoryEntry/17064820858/CourseNode/104195425205270) system
+* BIO390 HS 2021 in the [UZH directory](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?#/details/2021/003/SM/51009472)
