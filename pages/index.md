@@ -24,7 +24,7 @@ Please see the [listing of lectures here]({{ "/UZH-BIO390/courses/BIO390-HS2021-
 * 1 x 2h / week
 * Tue 08:00-09:45
 * UZH Irchel campus, **Y03-G-85**
-* OLAT [On Site Reservation System](https://lms.uzh.ch/auth/RepositoryEntry/16814276758/CourseNode/102334338362995)
+* OLAT [lecture recordings](https://lms.uzh.ch/auth/RepositoryEntry/17064820858/CourseNode/104195425228088)
 
 
 <!--
@@ -38,6 +38,8 @@ Please see the [listing of lectures here]({{ "/UZH-BIO390/courses/BIO390-HS2021-
 ### 2021 COVID19 Regulations
 
 As per current rules for labs/block courses, BIO392 is held with "in person" attendance. Please follow the UZH [Coronavirus Guidelines](https://www.uzh.ch/en/about/coronavirus/students.html).
+
+We provide [lecture recordings](https://lms.uzh.ch/auth/RepositoryEntry/17064820858/CourseNode/104195425228088) through OLAT. In the case of changing situation with canceled on-site attendance or inability of lecturers to attend in person a ZOOM link will be provided.
 
 #### Summary
 
