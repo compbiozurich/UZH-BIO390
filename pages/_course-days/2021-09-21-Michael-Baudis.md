@@ -87,10 +87,7 @@ in bioinformatics versus more data modeling and prediction (where prediction als
 needs data, but the with a stronger theoretical component; think prediction of
 protein structure or the behaviour of ecosystems).
 
----
 
 [^1]: Thanks to Katja Wolff in HS21 for starting some questions!
 
 [^2]: One shouldn't write in MS Word, IMO. Use LaTex, Markdown, OpenOffice ...
-
----
