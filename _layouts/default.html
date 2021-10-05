@@ -246,12 +246,16 @@
 
   <h4>Links</h4>
 
-    <ul>
+  <ul>
   {%- if page.pdf_file_name -%}
-		{% for static_file in site.static_files %}
-			{% if static_file.path contains page.pdf_file_name %}
-        <li><a href="{{ static_file.path | relative_url}}" target="_blank">[PDF]</a></li>
-  		{%- endif -%}
+    {%- for this_file in site.static_files -%}
+      {% if this_file.name == page.pdf_file_name %}
+      <li><a href="{{site.baseurl}}{{this_file.path}}" target="_blank">[PDF]</a>
+        {% if page.pdf_file_type %}
+  ({{ page.pdf_file_type }})
+        {% endif %}
+      </li>
+      {% endif %}
     {%- endfor -%}
   {%- endif -%}
   {% if page.www_link %}
@@ -262,7 +266,8 @@
         <li>{{ this_link }}</li>
     {% endfor %}
   {%- endif -%}
-    </ul>
+  </ul>
+
 {%- endif -%}
 
 {%- comment -%}
