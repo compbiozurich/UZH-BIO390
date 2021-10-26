@@ -8,7 +8,7 @@ www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
 pdf_file_name:
 www_links_formatted:
   - '<a href="/UZH-BIO390/course-material/2021-10-26___Shinichi-Sunagawa__Metagenomics__UZH-BIO390-HS21-Exercises.xlsx" target="_blank">[2021 exercises spreadsheet]</a> (.xslx)'
-  - '<a href="/UZH-BIO390/course-material/2021-10-26___Shinichi-Sunagawa__Metagenomics__UZH-BIO390-HS21-lecture-06.pdf" target="_blank">[2021 lecture slides]</a> (.xslx)'
+  - '<a href="/UZH-BIO390/course-material/2021-10-26___Shinichi-Sunagawa__Metagenomics__UZH-BIO390-HS21-lecture-06.pdf" target="_blank">[2021 lecture slides]</a> (.pdf)'
 categories:
   - lectures
 tags:
