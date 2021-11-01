@@ -18,6 +18,6 @@ tags:
 ---
 
 ## Biological Networks
-#### Puria Dasmeh
+#### Pouria Dasmeh
 
 <!--more-->
