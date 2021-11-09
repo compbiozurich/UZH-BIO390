@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
 pdf_file_name: 				# name of PDF (no path) somewhere in "assets"; auto-linked
 www_links_formatted:  # one or more formatted html links
+  - '<a href="https://github.com/dasmeh/Biological_networks/blob/main/Bio390_Pouria_Dasmeh.pdf">[Today's slides]</a> (Pouria Dasmeh; PDF)' 
   - '<a href="http://internal.baudisgroup.org/assets/data/2020-11-10___Gabriel-Schweizer__Biological-Networks__UZH-BIO390-HS20-lecture-08.pdf">[2020 lecture slides] (Gabriel Schweizer)</a>'
   - '<a href="http://internal.baudisgroup.org/assets/data/2020-11-10___Gabriel-Schweizer__Biological-Networks__UZH-BIO390-HS20-lecture-08-exercises.pdf">[2020 exercises] (Gabriel Schweizer)</a>'
 categories:
@@ -20,4 +21,10 @@ tags:
 ## Biological Networks
 #### Pouria Dasmeh
 
+In this part of the course Bio390 (Introduction to Bioinformatics), we review examples of biological networks, and get to know their basic properties. 
+
 <!--more-->
+
+We will also review a useful R library to create, and analyze networks. In addition, we review different useful datasets for retriving information to build biological networks.
+
+![Bio390_Pouria_Dasmeh copy](https://user-images.githubusercontent.com/6492012/139853603-1a85d235-305b-4506-a34c-22d9eb9169b5.jpg)
