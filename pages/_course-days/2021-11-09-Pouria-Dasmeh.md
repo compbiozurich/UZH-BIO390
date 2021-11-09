@@ -29,4 +29,3 @@ We will also review a useful R library to create, and analyze networks. In addit
 
 <br/>
 
-![Bio390_Pouria_Dasmeh copy](https://user-images.githubusercontent.com/6492012/139853603-1a85d235-305b-4506-a34c-22d9eb9169b5.jpg)
