@@ -1,5 +1,5 @@
 ---
-title: 'TBD'
+title: Ahmad Aghaebrahimian - Semantic Web
 layout: default
 author:
   - "@mbaudis"
@@ -15,5 +15,5 @@ tags:
   - days
 ---
 
-## (Text / Search / Ontologies / Image Processing Topic)
-#### TBA
+## Semantic web, RDF, Ontologies and Knowledge Graphs in biomedical sciences
+#### Ahmad Aghaebrahimian
