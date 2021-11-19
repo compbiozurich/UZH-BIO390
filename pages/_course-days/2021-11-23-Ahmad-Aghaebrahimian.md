@@ -4,9 +4,9 @@ layout: default
 author:
   - "@mbaudis"
 excerpt_separator: <!--more-->
-www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
-pdf_file_name:
-www_links_formatted:  # one or more formatted html links
+www_link: 						https://bit.ly/3wjyHpf
+pdf_file_name: 2021-11-23___Ahmad-Aghaebrahimian__Semantic-web__UZH-BIO390-HS21-lecture-10
+www_links_formatted:  
 categories:
   - lectures
 tags:
@@ -17,3 +17,7 @@ tags:
 
 ## Semantic web, RDF, Ontologies and Knowledge Graphs in biomedical sciences
 #### Ahmad Aghaebrahimian (ZHAW)
+
+Biomedical science is rich in structured and unstructured textual data including but not limited to hundreds of ontologies as well as millions of scientific publications. Semantic web and its stack of standards provide an efficient way for organizing knowledge extracted from such huge volume of data. Modeling data in knowledge graphs makes complex question answering and reasoning over abundance of information manageable and feasible. In this session we will find out how.
+
+<!--more-->
