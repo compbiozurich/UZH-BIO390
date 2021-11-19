@@ -16,4 +16,4 @@ tags:
 ---
 
 ## Semantic web, RDF, Ontologies and Knowledge Graphs in biomedical sciences
-#### Ahmad Aghaebrahimian
+#### Ahmad Aghaebrahimian (ZHAW)
