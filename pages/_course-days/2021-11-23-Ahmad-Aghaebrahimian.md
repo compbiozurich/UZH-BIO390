@@ -5,7 +5,7 @@ author:
   - "@mbaudis"
 excerpt_separator: <!--more-->
 www_link: 						https://bit.ly/3wjyHpf
-pdf_file_name: 2021-11-23___Ahmad-Aghaebrahimian__Semantic-web__UZH-BIO390-HS21-lecture-10
+pdf_file_name: 2021-11-23___Ahmad-Aghaebrahimian__Semantic-web__UZH-BIO390-HS21-lecture-10.pdf
 www_links_formatted:  
 categories:
   - lectures
