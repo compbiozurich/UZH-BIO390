@@ -31,30 +31,5 @@ This part of the course will address some of the issues related to the sharing o
 
 ### Topics and Literature
 
-#### Sharing of Genomic and Health related Data
+An extended literature collection for the topic is available through [this page(https://internal.baudisgroup.org/references/privacy-security-articles.html) (only accessible through UZH VPN).
 
-* Why do we need a lot of data for understanding genomic variation in health and disease?
-  - [The need for cohorts of 10 million+ humans](https://internal.baudisgroup.org/pdf/2017-10-15___Bierney__GA4GH_genomics_2022__biorxiv.pdf)
-  - https://internal.baudisgroup.org/pdf/2019-01-25___Amann%2C-Xenarios-et-al.__Toward-unrestricted-use-of-public-genomic-data__Science.pdf
-
-#### Data sharing protocols ...
-
-* Beacon
-  - https://internal.baudisgroup.org/pdf/2019-03-04___Fiume-et-al.__Federated-discovery-and-sharing-of-genomic-data-using-Beacons__NatBiotech.pdf
-
-#### Breaking data privacy
-* Different types of (genomic) privacy attacks
-  - https://internal.baudisgroup.org/pdf/2013-01-18___Gymrek-et-al.__Identifying-Personal-Genomes-by-Surname-Inference__Science.pdf
-* Beacon attacks and mitigation
-  - https://internal.baudisgroup.org/pdf/2015-10-29___Shringarpure-SS-and-Bustamante-CD__Privacy-Risks-from-Genomic-Data-Sharing-Beacons__AJHG.pdf
-  - https://internal.baudisgroup.org/pdf/2016-12-01___Hubaux__Beacon_re-id_mitigation.pdf
-* DCT and Longe-range familial attacks
-  - NYT: [Golden State Killer](https://www.nytimes.com/2018/04/28/us/golden-state-killer-joseph-deangelo.html)
-  - https://internal.baudisgroup.org/pdf/2018-11-09___Erlich-Y-et-al.__Identity-inference-of-genomic-data-using-long-range-familial-searches__Science.pdf
-* Genotype to Phenotype
-  - https://internal.baudisgroup.org/pdf/NYT%202015%20-%20DNA%20Generated%20Face.pdf
-  - https://internal.baudisgroup.org/pdf/NYT%202015%20-%20Building%20a%20face%2C%20and%20a%20case%2C%20on%20DNA.pdf
-
-#### Other Data Sharing Topics
-* Data cooperatives
-  - https://internal.baudisgroup.org/pdf/2018-06-19___Blasimme-et-al.___Democratizing-Health-Research-Through-Data-Cooperatives__Philos-Technol.pdf
