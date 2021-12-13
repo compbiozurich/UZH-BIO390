@@ -31,5 +31,5 @@ This part of the course will address some of the issues related to the sharing o
 
 ### Topics and Literature
 
-An extended literature collection for the topic is available through [this page(https://internal.baudisgroup.org/references/privacy-security-articles.html) (only accessible through UZH VPN).
+An extended literature collection for the topic is available through [this page](https://internal.baudisgroup.org/references/privacy-security-articles.html) (only accessible through UZH VPN).
 
