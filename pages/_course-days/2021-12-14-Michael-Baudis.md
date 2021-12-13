@@ -1,13 +1,13 @@
 ---
-title: 'Michael Baudis - Human Genome Risks & Opportunities'
+title: 'Michael Baudis - Genomic Data Risks & Opportunities'
 layout: default
-author:
-  - ""
+authors:
+  - "@mbaudis"
 excerpt_separator: <!--more-->
 www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
 pdf_file_name: 				# name of PDF (no path) somewhere in "assets"; auto-linked
 www_links_formatted:  # one or more formatted html links
-  - '<a href="/UZH-BIO390/course-material/2020-12-08___Michael-Baudis__Genomic-data-and-Privacy__UZH-BIO390-HS20-lecture-13.pdf">[2020 slides "Genomic Privacy"]</a>'
+  - '<a href="/UZH-BIO390/course-material/2021-12-14___Michael-Baudis__Genomic-data-and-Privacy__UZH-BIO390-HS21-lecture-13.pdf">[2021 slides "Genomic Privacy"]</a>'
 categories:
   - lectures
 tags:
@@ -33,3 +33,4 @@ This part of the course will address some of the issues related to the sharing o
 
 An extended literature collection for the topic is available through [this page](https://internal.baudisgroup.org/references/privacy-security-articles.html) (only accessible through UZH VPN).
 
+Please browse, read, make notes!
