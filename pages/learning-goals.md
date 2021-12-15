@@ -67,15 +67,19 @@ __Cave__: Please be aware that some of the "Learning Goals" may reflect aspects 
 * transcription factors & genome interaction
 * chemical genome modifications, their effectors and results
 * Chip-Seq
+* read mapping
+* peak calling
+* sequence compression algorithms
+
 
 #### Metagenomics
 
-* Students can explain the concept of taxonomic diversity
-* Students can explain the concept microbial community dissimilarity
-* Students know how sequences are used to derive an adopted species concept for prokaryotes
-* Students are familiar with the principle steps for 16S rRNA-based taxonomic composition analysis
-* Students can recapitulate the essential steps of short sequencing read assembly into contigs and scaffolds
-* Students can describe the basic steps of metagenomic analysis: from raw reads to the reconstruction of genomic scaffolds
+* concept of taxonomic diversity
+* concept microbial community dissimilarity
+* how are sequences used to derive an adopted species concept for prokaryotes
+* principle steps for 16S rRNA-based taxonomic composition analysis
+* essential steps of short sequencing read assembly into contigs and scaffolds
+* basic steps of metagenomic analysis: from raw reads to the reconstruction of genomic scaffolds
 
 #### Proteomics
 
@@ -94,7 +98,7 @@ __Cave__: Please be aware that some of the "Learning Goals" may reflect aspects 
 * direct-to-consumer genetic testing -> what, how
 * currently favoured _clinical_ NGS technology
 * clinical trial participation
-* genotype-phenotype (ab-)use
+* genotype-phenotype (G2P) (ab-)use
 
 #### Text Mining
 
@@ -105,6 +109,14 @@ __Cave__: Please be aware that some of the "Learning Goals" may reflect aspects 
 * search engine precision metrics
 * benchmarking
 
+#### Semantic web, RDF, Ontologies
+
+* semantic web and its benefits
+* stack of standards in semantic web and their functions
+* RDF for modeling data
+* OWL/OBO for modeling a biomedical domain
+* querying knowledge graphs for answering biomedical questions
+
 #### Biological Networks
 
 * Protein interaction and metabolic networks
@@ -113,7 +125,7 @@ __Cave__: Please be aware that some of the "Learning Goals" may reflect aspects 
 * graphs, nodes, edges, paths
 * geodesics, graph diameter
 * common types of degree distributions
-* adjacency matrix 
+* adjacency matrix
 * shortest path matrix
 * degree correlations
 * assortative and disassortative graphs
@@ -127,10 +139,3 @@ __Cave__: Please be aware that some of the "Learning Goals" may reflect aspects 
 * stoichiometry matrices
 * null space
 * flux balance analysis
-
-#### Gene regulation and epigenetics
-
-* read mapping
-* peak calling
-* sequence compression algorithms
-
