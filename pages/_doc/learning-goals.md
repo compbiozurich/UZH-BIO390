@@ -43,12 +43,13 @@ __Cave__: Please be aware that some of the "Learning Goals" may reflect aspects 
 
 #### Statistical Bioinformatics
 
-* statistical evidence for a change in the means
 * usage of gene expression profiling
-* dimensionality reduction
-* central limit theorem
 * multiple testing correction
 * parameters for hierarchical clustering
+* statistical evidence for a change in the mean
+* dimensionality reduction
+* central limit theorem
+* hierarchical clustering
 
 <!--
 #### Bioinformatics tools: Statistics & Graphics in R & BioConductor
