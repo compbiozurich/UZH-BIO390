@@ -22,6 +22,7 @@ tags:
 The exam will be on the last day of the course *on site*:
 
 * time: **08:15-09:45**
+* in the usual **Y03-G-85** and the next room **Y03-G-91**, to allow for betetr distancing
 * multiple (single + multiple) choice w/ one or two open questions
 * no material, phones etc.
 * student ID for entrance
