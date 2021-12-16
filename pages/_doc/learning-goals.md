@@ -85,6 +85,9 @@ __Cave__: Please be aware that some of the "Learning Goals" may reflect aspects 
 
 * principles of proteome organization in the cell
 * key experimental and computational concepts  for the collection and analysis of high confidence protein-protein interaction data
+* peptide fragmentation
+* target-decoy approach
+* protein quantification
 
 #### Clinical Bioinformatics & Personalized Medicine
 
