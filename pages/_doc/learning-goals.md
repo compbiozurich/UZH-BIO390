@@ -30,6 +30,7 @@ __Cave__: Please be aware that some of the "Learning Goals" may reflect aspects 
 * common sequence related file formats
 * hierarchies and relationships as 2 main principles of ontologies
 * areas of "not-bioinformatics", and why
+* bioinformatics tools (programming languages, libraries, online resources) and their specific use cases
 
 #### Bioinformatics tools & resources
 
