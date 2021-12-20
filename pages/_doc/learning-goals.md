@@ -50,6 +50,7 @@ __Cave__: Please be aware that some of the "Learning Goals" may reflect aspects 
 * dimensionality reduction
 * central limit theorem
 * hierarchical clustering
+* clustering coefficient
 
 <!--
 #### Bioinformatics tools: Statistics & Graphics in R & BioConductor
@@ -131,15 +132,17 @@ __Cave__: Please be aware that some of the "Learning Goals" may reflect aspects 
 * common types of degree distributions
 * adjacency matrix
 * shortest path matrix
-* degree correlations
 * assortative and disassortative graphs
-* clustering coefficient
 * community (module) detection
-* modularity Q
-* Girvan-Newman algorithm
 * cliques
-* small world graphs
 * motifs, graph representations of metabolic networks
+
+<!--
+* Girvan-Newman algorithm
+* small world graphs
+* degree correlations
+* modularity Q
 * stoichiometry matrices
 * null space
 * flux balance analysis
+-->
