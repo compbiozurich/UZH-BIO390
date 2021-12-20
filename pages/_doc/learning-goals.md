@@ -60,7 +60,6 @@ __Cave__: Please be aware that some of the "Learning Goals" may reflect aspects 
 * ideas behind ggplot:  components of a ggplot, arrangement of input data ... (no actual code writing needed)
 *  interpret common types of plots, e.g. barplot, boxplot, histogram
 * effect of data transformation (e.g. log) on common types of plots
-
 -->
 
 #### Regulatory Genomics and Epigenomics
