@@ -16,9 +16,9 @@ site_parent_link: 'https://compbiozurich.org'
 github_organisation: compbiozurich
 
 # instructions for processing specific directories
-include:        # usually only pages in / and /_posts are "seen" => processed
-  - categories  # contains landing pages for each category
-  - tags        # contains landing pages for each tag
+# include:        # usually only pages in / and /_posts are "seen" => processed
+#   - categories  # contains landing pages for each category
+#   - tags        # contains landing pages for each tag
 
 # Collections are used to organise pages into logical groups; these do not need
 # to have a relation to the "categories", though this is highly recommended
@@ -44,17 +44,18 @@ nav_cat_blocks:     # comma-separated "label,type,label_visibility"
   github_projects: 'Github Projects,github_projects,show'
 
 # content of the different navigation blocks
-general:
-  news: "News and Updates"
-  doc: 'General Info'
-  lectures: 'Lectures'
-  people: Teachers
-  howto: 'Examples, Guides & FAQ'
-  material: 'Course Material'
+# general:
+#   news: "News and Updates"
+#   doc: 'General Info'
+#   lectures: 'Lectures'
+#   people: Teachers
+#   howto: 'Examples, Guides & FAQ'
+#   material: 'Course Material'
 
 related_sites:
+  'UZH390 Site': 'http://www.compbiozurich.org/courses/UZH-BIO392/'
   CompbioZurich: "http://www.compbiozurich.org"
-  'UZH392 course': '/UZH-BIO392/'
+  'UZH392 course': 'http://www.compbiozurich.org/courses/UZH-BIO392/'
   'Baudisgroup at UZH': 'http://info.baudisgroup.org'
 
 github_projects:
@@ -72,22 +73,22 @@ tags-date-sorted:
 
 # Only tags listed here are represented in the tag cloud.
 cloud_tags:
-  - "2020"
-  - "2021"
-  - "2022"
-  - code
-  - contacts
-  - documentation
-  - days
-  - exam
-  - feedback
-  - FAQ
-  - Markdown
-  - website
-  - slides
-  - data
-  - exercises
-  - teachers
+  # - "2020"
+  # - "2021"
+  # - "2022"
+  # - code
+  # - contacts
+  # - documentation
+  # - days
+  # - exam
+  # - feedback
+  # - FAQ
+  # - Markdown
+  # - website
+  # - slides
+  # - data
+  # - exercises
+  # - teachers
 
 # additional Jekyll instructions
 plugins:
