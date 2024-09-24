@@ -22,9 +22,9 @@ d <- read.table("http://imlspenticton.uzh.ch/teaching/BIO390/scRNAseq_table.txt"
 label <- d$label
 d$label <- NULL
 
-Use the prcomp() function to perform a PCA of the data.frame 'd'. Plot the first two principal components (look in the $x element in the output of prcomp). Best would be to use ggplot2 to 
+Use the prcomp() function to perform a PCA of the data.frame 'd'. Plot the first two principal components (look in the $x element in the output of prcomp). Best would be to use ggplot2 to plot the points of the "embedding", colored by the label variable.
 
-Take the data.frame 'd' and perform a UMAP embedding (i.e., dimension reduction).
+Take the data.frame 'd' and perform a UMAP embedding (i.e., dimension reduction). One option is to use the umap() function in the M3C package.
 
 
 
